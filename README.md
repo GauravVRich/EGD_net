@@ -15,8 +15,11 @@ The dataset contains images,depth(.npy),edges and gradient for three different e
 
 `
 root_folder
+
 |--datasets/(**folders and sub-folders of the dataset)
+
 |--train.py
+
 |--generate_maps.py`
 
 ## To train the model
