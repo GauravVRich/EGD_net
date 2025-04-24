@@ -14,7 +14,7 @@ The dataset contains images,depth(.npy),edges and gradient for three different e
 # Project structure 
 
 
-root_folder
+root_folder/
 
 |--datasets/(**folders and sub-folders of the dataset)
 
