@@ -20,7 +20,8 @@ root_folder
 
 |--train.py
 
-|--generate_maps.py`
+|--generate_maps.py
+`
 
 ## To train the model
 Run `python train.py`
