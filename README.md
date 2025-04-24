@@ -12,10 +12,12 @@ download dataset for this link:
 The dataset contains images,depth(.npy),edges and gradient for three different environments-Pillar World, Urban and Downtown.
 
 # Project structure 
+
+`
 root_folder
 |--datasets/(**folders and sub-folders of the dataset)
 |--train.py
-|--generate_maps.py
+|--generate_maps.py`
 
 ## To train the model
 Run `python train.py`
